@@ -1,0 +1,2 @@
+# IntuitHackathon
+Course Scheduling App 
